@@ -1,0 +1,2 @@
+# Micropython_HX1838B
+对于MP3红外遥控器17键和HX1838B接收头的Micropython代码
